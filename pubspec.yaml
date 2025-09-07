@@ -1,5 +1,5 @@
-name: appwrite_flutter_starter_kit
-description: "Appwrite StarterKit in Flutter"
+name: smart attendance 
+description: "A attendance system app using Flutter"
 publish_to: 'none'
 
 version: 1.0.0
