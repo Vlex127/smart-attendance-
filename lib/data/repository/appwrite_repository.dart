@@ -1,8 +1,8 @@
 import 'package:intl/intl.dart';
 import 'package:appwrite/appwrite.dart';
-import 'package:appwrite_flutter_starter_kit/data/models/log.dart';
-import 'package:appwrite_flutter_starter_kit/data/models/project_info.dart';
-import 'package:appwrite_flutter_starter_kit/config/environment.dart';
+import '../../data/models/log.dart';
+import '../../data/models/project_info.dart';
+import '../../config/environment.dart';
 
 /// A repository responsible for handling network interactions with the Appwrite server.
 ///
